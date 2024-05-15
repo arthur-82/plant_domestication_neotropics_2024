@@ -1,5 +1,5 @@
 ### Article title: Systematic Mapping Knowledge on Plant Domestication in Neotropical Region
-### Journal: Scientometrics
+### Journal: Genetic Resources and Crop Evolution
 ### Authors: Arthur Lima da Silva, Mathurin François, Ernani Machado de Freitas Lins-Neto, Eduardo Mariano Neto
 ### Corresponding author affiliation: Federal University of São Francisco Valley (UNIVASF)
 ### Corresponding author e-mail: arthur.limas@univasf.edu.br
