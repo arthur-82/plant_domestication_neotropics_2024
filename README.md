@@ -1,4 +1,4 @@
-This repository contains the raw data, supplementary materials, R scripts and *.rds file (bibliometrix package) with data processed and analyzed in the paper **SYSTEMATIC MAPPING KNOWLEDGE ON PLANT DOMESTICATION IN NEOTROPICAL REGION** for independent analysis.
+This repository contains the raw data, supplementary materials, R scripts and *.rds file (bibliometrix package) with data processed and analyzed in the paper **WHO, WHERE AND WHAT IS THE IMPACT AND RELEVANCE OF STUDIES ON PLANT DOMESTICATION IN NEOTROPICAL REGION? A SCIENTOMETRIC REVIEW FROM 1965 TO 2023** for independent analysis.
 
 Contents:
 1. A R script with instructions to load and run bibliometrix package
