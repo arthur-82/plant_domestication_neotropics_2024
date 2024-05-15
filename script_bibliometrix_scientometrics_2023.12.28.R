@@ -1,4 +1,4 @@
-### Article title: Systematic Mapping Knowledge on Plant Domestication in Neotropical Region
+### Article title: Who, where and what is the impact and  relevance of studies on plant domestication in Neotropical region? a scientometric review from 1965 to 2023 
 ### Journal: Genetic Resources and Crop Evolution
 ### Authors: Arthur Lima da Silva, Mathurin François, Ernani Machado de Freitas Lins-Neto, Eduardo Mariano Neto
 ### Corresponding author affiliation: Federal University of São Francisco Valley (UNIVASF)
