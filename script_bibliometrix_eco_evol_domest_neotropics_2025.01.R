@@ -1,5 +1,4 @@
 ### Article title: Ecology and Evolution of Plants Under Domestication in the Neotropics: Insights from six decades research
-### Journal: Plant Science
 ### Authors: Arthur Lima da Silva, Mathurin François, Ernani Machado de Freitas Lins-Neto, Eduardo Mariano Neto
 ### Corresponding author affiliation: Federal University of São Francisco Valley (UNIVASF)
 ### Corresponding author e-mail: arthur.limas@univasf.edu.br
